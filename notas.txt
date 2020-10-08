@@ -1,0 +1,1 @@
+bootstrap lo podes instalar como una libreria y ya en los jsx lo podes utilizar
